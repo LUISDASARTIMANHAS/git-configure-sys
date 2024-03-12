@@ -1,5 +1,4 @@
 @echo off
-setlocal EnableDelayedExpansion
 color 9F
 
 :menu
